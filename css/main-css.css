@@ -85,7 +85,7 @@ a {
 }
 
 .main-page {
-    background-image: url(/img/background.jpg);
+    background-image: url(img/background.jpg);
     background-size: cover;
     position: relative;
     z-index: 2;
