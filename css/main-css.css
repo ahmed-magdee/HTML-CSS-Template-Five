@@ -85,7 +85,7 @@ a {
 }
 
 .main-page {
-    background-image: url(img/background.jpg);
+    background-image: url(/img/background.jpg);
     background-size: cover;
     position: relative;
     z-index: 2;
@@ -188,6 +188,7 @@ a {
 @media (max-width: 767px) {
     .watch {
         flex-direction: column;
+        text-align: center;
     }
 }
 .watch .text p:first-of-type {
