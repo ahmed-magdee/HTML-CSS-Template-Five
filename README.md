@@ -8,9 +8,9 @@ I used Html, Css, Fontawesome and Javascript.
 
 ### Landing
 
-<img align="center" marginLeft="auto" width="80%" scr ="./img/template/screen1.png">
+<img align="center" marginLeft="auto" width="80%" scr ="./img/template/landing1.png">
 
-<img align="center" marginLeft="auto" width="80%" scr ="./img/template/screen2.png">
+<img align="center" marginLeft="auto" width="80%" scr ="./img/template/landing2.png">
 
 ## Links
 
